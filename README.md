@@ -1,4 +1,4 @@
-# MRISegmentation
+# MRI Segmentation
 Tartu University ML course final proyect
 
 MRI image segmentation using Deep Learning.
